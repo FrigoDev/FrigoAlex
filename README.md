@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-<img align='right' src='https://octodex.github.com/images/codertocat.png' width='20%'>
+<img align='right' src='https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif' width='20%'>
 
 {
 
