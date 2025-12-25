@@ -86,8 +86,8 @@
 <h2 align="center">📊 GitHub Profile Overview</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrigoDev&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrigoDev&layout=compact&langs_count=8&theme=material-palenight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=FrigoDev&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FrigoDev&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages" />
 </div>
 
 <div align="center">
