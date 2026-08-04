@@ -13,7 +13,7 @@
 - 👂 `My name is`: **FrigoDev**,
 - 👨‍💻 `Role`: **Systems Engineer**,
 - 🎮 `Hobbies`: **Coding, Video games & Reading**,
-- 🌱 `Currently learning`: **Backend, DevOps, Kubernetes & Rust**,
+- 🌱 `Currently learning`: **DevOps, Kubernetes & Rust**,
 - 💻 `Favorite languages`: **TypeScript & Python**,
 - ❤️ `I love`: **Learning & Coffee**
 
