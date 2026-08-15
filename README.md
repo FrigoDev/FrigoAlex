@@ -103,10 +103,8 @@
     <td valign="top" width="50%">
       <h3>🌱 Currently Learning</h3>
       <ul>
-        <li>⚡ Backend Development</li>
         <li>🚀 DevOps & Kubernetes</li>
         <li>📘 Rust Programming</li>
-        <li>🎨 Advanced System Design</li>
       </ul>
     </td>
     <td valign="top" width="50%">
